@@ -1,0 +1,4 @@
+MainPackage=d:\git\WatchVs100\WatchVs100\WatchVs100.Windows\bin\Release\WatchVs100.Windows_1.1.0.0_Bundle\WatchVs100.Windows_1.1.0.0_AnyCPU.appx
+SymbolPackage=d:\git\WatchVs100\WatchVs100\WatchVs100.Windows\AppPackages\WatchVs100.Windows_1.1.0.0_Test\WatchVs100.Windows_1.1.0.0_AnyCPU.appxsym
+ResourcePack=d:\git\WatchVs100\WatchVs100\WatchVs100.Windows\bin\Release\WatchVs100.Windows_1.1.0.0_Bundle\WatchVs100.Windows_1.1.0.0_scale-140.appx
+ResourcePack=d:\git\WatchVs100\WatchVs100\WatchVs100.Windows\bin\Release\WatchVs100.Windows_1.1.0.0_Bundle\WatchVs100.Windows_1.1.0.0_scale-180.appx

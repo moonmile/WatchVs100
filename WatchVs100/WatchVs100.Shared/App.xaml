@@ -1,0 +1,15 @@
+﻿<Application
+    x:Class="WatchVs100.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:WatchVs100">
+    <Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="Common/StandardStyles.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+            <!--アプリケーション固有のリソース -->
+            <x:String x:Key="AppName">Watch VS魂 100連発</x:String>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>
