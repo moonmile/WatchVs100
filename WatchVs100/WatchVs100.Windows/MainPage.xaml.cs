@@ -113,7 +113,7 @@ namespace WatchVs100
             // タイトル一覧を取得する
             var youtube = new YouTubeService(new Google.Apis.Services.BaseClientService.Initializer()
             {
-                ApiKey = "AIzaSyDJaZ6iQhz1eGYgQpRytnTqnuSObLydS-A", // Google API key
+                ApiKey = "", // Google API key
                 ApplicationName = "VS100Watcher"
             });
 
